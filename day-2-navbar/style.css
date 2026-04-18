@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #a398ad;
+    width: 100%;
+    height: 70px;
+    padding: 2px 64px;
+}
+#logo{
+    text-align: left;
+   color: rgb(255, 255, 255);
+
+}
+
+.label:hover{
+    padding:2px 3px ;
+    background-color: rgb(45, 23, 38);
+    color: aliceblue;
+    font-size: larger;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
+    
+#nav{
+    color: beige;
+     background-color: #a398ad;
+     padding: 2px 186px;
+}
